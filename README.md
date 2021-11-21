@@ -20,11 +20,11 @@
 
 ## 📈 Github Stats
 
-![Mikastiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikastiv&show_icons=true&theme=radical)
+![Mikastiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikastiv&show_icons=true&theme=radical&hide_border=true)
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikastiv&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikastiv&layout=compact&theme=radical&hide_border=true)
 
 ## Some of My Projects
 
