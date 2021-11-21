@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi there, I'm Mikastiv</h3>
+<h2 align="center">👋 Hi there, I'm Mikastiv</h2>
 
 <div align="center">I'm a student at 42 Quebec who's passionate about systems programming</div>
 
