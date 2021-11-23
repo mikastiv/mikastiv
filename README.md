@@ -28,7 +28,7 @@
 
 ## Some of My Projects
 
-<a href="https://github.com/Mikastiv/NesOxyde">NesOxyde 🎮 - An NES Emulator</a>
+<a href="https://github.com/Mikastiv/NesOxyde">NesOxyde 🎮 - A NES Emulator</a>
 <br/>
 <a href="https://github.com/Mikastiv/minishell">Minishell 🐚 - A small shell implementation</a>
 <br/>
