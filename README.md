@@ -4,6 +4,8 @@
 
 <div align="center">⚡ Fun fact: I love Rust!</div>
 
+<br/>
+
 ![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mleblanc)
 
 ## 💼 Technical Skills
