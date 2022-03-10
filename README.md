@@ -6,7 +6,7 @@
 
 <br/>
 
-![mleblanc's 42 stats](https://badge42.herokuapp.com/api/stats/mleblanc)
+<!-- ![mleblanc's 42 stats](https://badge42.herokuapp.com/api/stats/mleblanc) -->
 
 ## 💼 Technical Skills
 
