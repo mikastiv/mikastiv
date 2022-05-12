@@ -22,6 +22,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+[![mleblanc's 42 stats](https://badge42.vercel.app/api/v2/cl336f7cu000609l9ct5dvx1j/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+
 ## 📈 Github Stats
 
 ![Mikastiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikastiv&show_icons=true&theme=radical&hide_border=true)
