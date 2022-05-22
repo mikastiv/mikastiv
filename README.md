@@ -36,8 +36,8 @@
 
 <a href="https://github.com/Mikastiv/NesOxyde">NesOxyde 🎮 - A NES Emulator</a>
 <br/>
+<a href="https://github.com/Mikastiv/cub3D">cub3D - A Wolfenstein3D-style raycaster</a>
+<br/>
 <a href="https://github.com/Mikastiv/minishell">Minishell 🐚 - A small shell implementation</a>
 <br/>
 <a href="https://github.com/Mikastiv/rustracer">Rustracer ✏ - A simple raytracer</a>
-<br/>
-<a href="https://github.com/Mikastiv/cub3D">cub3D - A Wolfenstein3D-style raycaster</a>
