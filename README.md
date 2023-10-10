@@ -2,7 +2,7 @@
 
 <div align="center">I'm a student at 42 Quebec who's passionate about video games and systems programming</div>
 
-<div align="center">⚡ Fun fact: I love Rust!</div>
+<div align="center">⚡ Fun fact: I love Zig!</div>
 
 <br/>
 
