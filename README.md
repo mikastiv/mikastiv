@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi there, I'm Mikastiv</h2>
 
-<div align="center">I'm a student at 42 Quebec who's passionate about video games and systems programming</div>
+<div align="center">I like video games and systems programming</div>
 
 <div align="center">⚡ Fun fact: I love Zig!</div>
 
