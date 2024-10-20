@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi there, I'm Mikastiv</h2>
+<h2 align="center">👋 Hi there, I'm mikastiv</h2>
 
 <div align="center">I like video games and systems programming</div>
 
