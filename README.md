@@ -29,10 +29,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikastiv&layout=compact&theme=radical&hide_border=true)
 
 ## Some of My Projects
-<a href="https://github.com/Mikastiv/scop">scop - An Obj 3D model viewer</a>
+<a href="https://github.com/mikastiv/scop">scop - An Obj 3D model viewer</a>
 <br/>
-<a href="https://github.com/Mikastiv/NesOxyde">NesOxyde 🎮 - A NES Emulator</a>
+<a href="https://github.com/mikastiv/NesOxyde">NesOxyde 🎮 - A NES Emulator</a>
 <br/>
-<a href="https://github.com/Mikastiv/cub3D">cub3D - A Wolfenstein3D-style raycaster</a>
+<a href="https://github.com/mikastiv/cub3D">cub3D - A Wolfenstein3D-style raycaster</a>
 <br/>
-<a href="https://github.com/Mikastiv/rustracer">Rustracer ✏ - A simple raytracer</a>
+<a href="https://github.com/mikastiv/ft_ssl">ft_ssl 🔑 - OpenSSL partial reimplementation</a>
